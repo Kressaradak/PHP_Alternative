@@ -1,0 +1,27 @@
+[
+    {
+        "text": "Какой язык программирования используется в данном проекте?",
+        "options": ["PHP", "Python", "JavaScript", "C++"],
+        "correct": ["PHP"]
+    },
+    {
+        "text": "Какие из этих языков являются динамическими?",
+        "options": ["C", "Python", "JavaScript", "Java"],
+        "correct": ["Python", "JavaScript"]
+    },
+    {
+        "text": "Какой HTTP-метод используется для отправки формы?",
+        "options": ["GET", "POST", "DELETE", "PATCH"],
+        "correct": ["POST"]
+    },
+    {
+        "text": "Какой тег используется для создания гиперссылки в HTML?",
+        "options": ["<link>", "<a>", "<href>", "<url>"],
+        "correct": ["<a>"]
+    },
+    {
+        "text": "Какой оператор используется для строгого сравнения в PHP?",
+        "options": ["==", "===", "!=", "<>"],
+        "correct": ["==="]
+    }
+]
